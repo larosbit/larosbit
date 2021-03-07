@@ -1,0 +1,4 @@
+message = "koshka"
+print(message)
+
+
